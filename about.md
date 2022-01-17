@@ -3,15 +3,10 @@ layout: post
 title: About
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+“Beauty has been stolen from the people and is being sold back to them under the concept of luxury!" Kanye West, Oxford Lecture 2015
 
-<figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
-  <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
-  </figcaption>
-</figure>
+Resonant Notes is a twice-yearly commentary that seeks meaning and symbolism across disciplines. We are particularly devoted to beauty as a vehicle for goodness and truth in a post-Christian milieu.
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
+Our articles are those we’d like to share with our family members, and we hope you’ll share them with yours!
 
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+Accepted pieces appear in online publication, and we compile them at the end of each period into an issue of the journal. Each print issue is available for purchase upon request. Our writing is intended to be useful or entertaining to the Church and people of good will. Thus, while Christian-inflected writing is certainly welcome, submissions need not be explicitly religious. Topics range from _to be discussed_.
