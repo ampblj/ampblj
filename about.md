@@ -3,7 +3,7 @@ layout: post
 title: About
 ---
 
-“Beauty has been stolen from the people and is being sold back to them under the concept of luxury!" Kanye West, Oxford Lecture 2015
+>“Beauty has been stolen from the people and is being sold back to them under the concept of luxury!" Kanye West, Oxford Lecture 2015
 
 Resonant Notes is a twice-yearly commentary that seeks meaning and symbolism across disciplines. We are particularly devoted to beauty as a vehicle for goodness and truth in a post-Christian milieu.
 
