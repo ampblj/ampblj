@@ -25,6 +25,7 @@ github_username:  ampblj
 
 # Build settings
 markdown: kramdown
+hide_credits: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -38,11 +39,8 @@ markdown: kramdown
 #   - vendor/gems/
 #   - vendor/ruby/
 
-hide_credits: true
-
 plugins:
   - jekyll-paginate
 
 paginate: 3
 paginate_path: "/page/:num/"
-theme: jekyll-theme-minimal
