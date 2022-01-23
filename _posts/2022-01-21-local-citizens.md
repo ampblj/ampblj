@@ -2,7 +2,6 @@
 layout: post
 title: "Local Citizens"
 author: "Ammar Plumber"
-categories: economics community-building local-government education human-capital-flight brain-drain
 ---
 
 A prominent topic in development economics is the phenomenon of human capital flight or _brain drain_. People are raised and educated in their motherland and then take their talents to a place that can better reward their efforts, like LeBron James going to Miami. This isn't inherently a problem. Immigration, on the whole, seems to benefit both countries&mdash;receiving and exporting. Receiving countries receive valuable talent, and exporting countries receive remittances, trade opportunities, and return migrants with an array of skills and resources acquired during their time abroad. A few relevant papers include [Khanna & Morales, 2017](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2968147); [Batista et al., 2012](https://www.sciencedirect.com/science/article/abs/pii/S0304387811000083?via%3Dihub); [Easterly and Nyarko, 2008](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1121853).
