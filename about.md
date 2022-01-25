@@ -14,16 +14,28 @@ Accepted pieces appear in online publication, and we compile them into a periodi
 
 <h3>Team</h3>
 
-Brandon Joa - Editor-in-Chief ([bio](https://resonantnotes.com/brandon.html))
+<b style="font-weight:bold;">Publisher</b>
 
-Ammar Plumber - Publisher ([bio](https://ammarplumber.com/about.html))
+Ammar Plumber ([bio](https://ammarplumber.com/about.html))
 
-Joe Perez-Benzo - Editor
+<br>
+<b style="font-weight:bold;">Editor-in-Chief</b>
 
-Ming Wilson - Editor
+Brandon Joa ([bio](https://resonantnotes.com/brandon.html))
 
-Frances Choi - Editor
+<br>
+<b style="font-weight:bold;">Editors</b>
 
-Patrick Magee - Editor
+Frances Choi
 
-Miriam Shah - Editor
+Brandon Joa
+
+Patrick Magee
+
+Joseph Perez-Benzo
+
+Ammar Plumber
+
+Miriam Shah
+
+Ming Wilson
