@@ -11,3 +11,19 @@ _Resonant notes_ is a twice-yearly commentary drawing contributions from lovers 
 Our articles are those we’d like to share with our family members, and we hope you’ll share them with yours!
 <br> <br>
 Accepted pieces appear in online publication, and we compile them into a periodical... periodically. Each print issue is available for purchase upon request. Our writing is intended to be useful or entertaining to the Church and people of good will. Thus, while Christian-inflected writing is certainly welcome, submissions need not be explicitly religious. Topics range from _to be discussed_.
+
+<h3>Staff</h3>
+
+Brandon Joa - Editor-in-Chief ([Bio](https://resonantnotes.com/brandon.html))
+
+Ammar Plumber - Publisher ([Bio](https://ammarplumber.com/about.html))
+
+Joe Perez-Benzo - Editor
+
+Ming Wilson - Editor
+
+Frances Choi - Editor
+
+Patrick Magee - Editor
+
+Miriam Shah - Editor
