@@ -10,7 +10,7 @@ _Resonant notes_ is a twice-yearly commentary drawing contributions from lovers 
 <br> <br>
 Our articles are those we’d like to share with our family members, and we hope you’ll share them with yours!
 <br> <br>
-Accepted pieces appear in online publication, and we compile them into a periodical... periodically. Each print issue is available for purchase upon request. Our writing is intended to be useful or entertaining to the Church and people of good will. Thus, while Christian-inflected writing is certainly welcome, submissions need not be explicitly religious. Topics range from _to be discussed_.
+Accepted pieces appear in online publication, and we compile them into a periodical... periodically. Each print issue is available for purchase upon request. Our writing is intended to be useful or entertaining to the Church and people of good will. Thus, while Christian-inflected writing is certainly welcome, submissions need not be explicitly religious.
 
 <h3>Team</h3>
 
