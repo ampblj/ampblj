@@ -15,7 +15,7 @@ Accepted pieces appear in online publication, and we compile them into a periodi
 For more details, see our Welcome message.
 <br> <br>
 <h3>Submission guidelines</h3>
-<br> <br>
+
 We welcome submissions and appreciate your interest in Resonant notes! Feel free to send inquiries or manuscripts to the editor whose interests you think best encompass your submission, or use the following [form]. We occasionally accept autobiographical narratives and short fiction in addition to our main sections.
 <br> <br>
 Accepted submissions may be of any length, and we may publish accepted pieces in later issues if there are already other many articles of similar length or category, or depending on the theme. To encourage creativity and avoid subjecting authors’ voices to editors’ whims, we first decide whether to accept a submission for publication before recommending edits or revisions. The only required changes are for formatting.
