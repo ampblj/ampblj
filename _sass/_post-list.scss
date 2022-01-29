@@ -35,6 +35,7 @@
   flex-direction: column-reverse;
   text-decoration: none;
   padding-bottom: .25em;
+  padding-top: none;
   transition: opacity .125s ease-in-out;
   &:hover,
   &:focus {
@@ -67,6 +68,9 @@
     margin-top: 0;
     margin-left: 20px;
     color: $muted-text-color;
+    @media (min-width: $on-tablet) {
+      margin-left: 0;
+    }
   }
 }
 
