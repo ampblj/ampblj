@@ -13,6 +13,15 @@ Our articles are those we’d like to share with our family members, and we hope
 Accepted pieces appear in online publication, and we compile them into a periodical... periodically. Each print issue is available for purchase upon request. Our writing is intended to be useful or entertaining to the Church and people of good will. Thus, while Christian-inflected writing is certainly welcome, submissions need not be explicitly religious.
 <br> <br>
 For more details, see our Welcome message.
+<br> <br>
+<hr>Submission guidelines</h3>
+<br> <br>
+We welcome submissions and appreciate your interest in Resonant notes! Feel free to send inquiries or manuscripts to the editor whose interests you think best encompass your submission, or use the following [form]. We occasionally accept autobiographical narratives and short fiction in addition to our main sections.
+<br> <br>
+Accepted submissions may be of any length, and we may publish accepted pieces in later issues if there are already other many articles of similar length or category, or depending on the theme. To encourage creativity and avoid subjecting authors’ voices to editors’ whims, we first decide whether to accept a submission for publication before recommending edits or revisions. The only required changes are for formatting.
+<br> <br>
+We encourage authors to send a photograph or drawing to accompany their piece before or after acceptance of a submission. Editors will otherwise select an image to represent your piece.
+
 
 <h3>Team</h3>
 
