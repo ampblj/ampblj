@@ -16,4 +16,14 @@
       {{ post.date | date: "%b %-d, '%y" }}
     </span>
   </a>
+  <a href="{{ post.url | absolute_url }}" class="post-link2">
+    <div class="post-link__heading">
+      {% unless post.author == "" %}
+          <h2 class="post-link__title">      
+            {{ post.author }}
+          </h2>
+      {% else %}
+      {% endunless %}
+    </div>
+  </a>
 </li>
