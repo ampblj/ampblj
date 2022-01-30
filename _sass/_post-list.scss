@@ -46,11 +46,17 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    .post-date {
+      margin-left: auto;
+    }
   }
 }
 .post-link__heading {
   display: block;
   margin-right: 4em;
+  @media (min-width: $on-tablet) {
+    padding: .25em 0;
+  }
   h1 {
     font-size: 1em;
     margin-bottom: 0;
@@ -61,9 +67,7 @@
     margin-bottom: 0;
     margin-top: 0;
     color: $muted-text-color;
-    @media (min-width: $on-tablet) {
-      margin-left: 0;
-    }
+    text-align: left;
   }
 }
 
