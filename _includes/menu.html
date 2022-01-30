@@ -22,5 +22,8 @@
       </li>
     {% endfor %}
     </ul>
+    {% unless site.hide_search %}
+      {% include search.html %}
+    {% endunless %}
   </nav>
 {% endif %}
