@@ -7,8 +7,8 @@
 #search__input {
   background: transparent;
   border: 0;
-  font: 1em $font-family;
-  padding: .5em;
+  font: .875em $font-family;
+  padding: 0em;
   color: $text-color;
   text-align: center;
   &:focus {
@@ -18,6 +18,7 @@
 
 #search button[type="submit"] {
   display: none;
+  line-height: 0;
 }
 
 ::-webkit-input-placeholder {

@@ -19,6 +19,9 @@ layout: default
         <div itemprop="author">{{ page.author }}</div>
       {% endif %}
       <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
+      {% if page.subtitle %}
+        <div itemprop="subtitle">{{ page.subtitle }}</div>
+      {% endif %}
     </div>
   {% endif %}
 
