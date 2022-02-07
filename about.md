@@ -43,10 +43,6 @@ Brandon Joa
 
 Patrick Magee
 
-Joseph Perez-Benzo
-
 Ammar Plumber
-
-Miriam Shah
 
 Ming Wilson
