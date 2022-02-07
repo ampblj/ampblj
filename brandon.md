@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brandon Joa (何林亮)
+title: Brandon Joa <br> 何林亮
 ---
 
 <style>
