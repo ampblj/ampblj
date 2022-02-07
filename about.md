@@ -12,7 +12,7 @@ Our articles are those we’d like to share with our family members, and we hope
 <br> <br>
 Accepted pieces appear in online publication, and we compile them into a periodical... periodically. Each print issue is available for purchase upon request. Our writing is intended to be useful or entertaining to the Church and people of good will. Thus, while Christian-inflected writing is certainly welcome, submissions need not be explicitly religious.
 <br> <br>
-For more details, see our Welcome message.
+For more details, see our [welcome message](https://www.resonantnotes.com/ac/2022/01/20/welcome.html).
 <br> <br>
 <h3>Submission guidelines</h3>
 
