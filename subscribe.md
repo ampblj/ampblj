@@ -10,6 +10,7 @@ title: Subscribe
 	<br/>
 	<label for="email">Email</label><br/>
 	<input type="email" name="email" id="email"/><br/>
+    <br>
 	<p class="g-recaptcha" data-sitekey="6Lc9MGEeAAAAADYD9fOpZCNxZLeP_aFctqG0Z3UT"></p><div style="display:none;">
 	<label for="hp">HP</label><br/>
 	<input type="text" name="hp" id="hp"/>
