@@ -48,4 +48,4 @@ Self-referential hedonism, even if shared, isn’t enough to satisfy Thile. The 
 
 Still, the hollowed-out form carries memories, the contents of which the Church’s young artists might renew as they improve their technical chops. When Thile returned for an encore, another audience member shouted, “O come, O Come, Emmanuel!” Thile obliged. Somehow, he even remembered a second verse, “O come thou Dayspring, come and cheer our spirits by thine advent here.” No irony could distract from the hope of expecting a baby, good news strummed out on four courses of strings. For just a moment, untouched by the clamor of prestige and fame, all sat listening for the humble birth of God heralded by a mandolin.
 
-<em>Brandon Joa is editor of</em> Resonant notes.
+<em>Brandon Joa is editor of </em> Resonant notes.
