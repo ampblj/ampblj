@@ -9,4 +9,4 @@ title: Sections
 
 <a href="{{ '/scientific.html' | prepend: site.baseurl }}">Scientific commentary</a>
 
-<img src="{{site.baseurl}}/assets/images/sections_giraffes.jpg" width="60%" height="60%" class="center">
+<img src="{{site.baseurl}}/assets/images/sections_giraffe.jpg" width="60%" height="60%" class="center">
