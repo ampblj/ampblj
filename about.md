@@ -37,11 +37,13 @@ Brandon Joa ([bio](https://resonantnotes.com/brandon.html))
 <br>
 <b style="font-weight:bold;">Editors</b>
 
-Frances Choi
+Frances Choi ([bio](https://resonantnotes.com/frances.html))
 
 Brandon Joa
 
 Patrick Magee
+
+Joe Perez-Benzo
 
 Ammar Plumber
 
