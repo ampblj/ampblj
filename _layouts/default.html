@@ -21,6 +21,15 @@
   </head>
   <body>
 
+    {% if page.layout != 'home' %}
+      <a href="#main" class="skip-navigation">
+        Skip to content
+      </a>
+      <a href="{{ '/' | prepend: site.baseurl }}">
+        <img src="{{site.baseurl}}/assets/images/resonantlogo.png" width="20%" height="20%" padding="none" margin="none">
+      </a>
+    {% endif %}
+
     {% include menu.html %}
 
     {{ content }}
