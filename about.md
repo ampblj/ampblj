@@ -41,7 +41,7 @@ Frances Choi ([bio](https://resonantnotes.com/frances.html))
 
 Brandon Joa
 
-Patrick Magee
+Patrick Magee ([bio](https://resonantnotes.com/patrick.html))
 
 Joe Perez-Benzo
 
