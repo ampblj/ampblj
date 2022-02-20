@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "YouTube picks"
-author: "The Editors"
+author: "The Editors and Friends"
 category: "AC"
 ---
 __Ammar Plumber's pick__
@@ -15,7 +15,7 @@ __Brandon Joa's pick__
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BJHEaWfpFqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-Described by a cultural critic friend as “abomination” and “not music,” this is nevertheless an eye-opening exposition of the father-spirit archetype in Genesis and human attachment. See Carl Jung’s Two Essays on Analytical Psychology and The Archetypes and the Collective Unconscious for more background.
+Described by a cultural critic friend as “abomination” and “not music,” this is nevertheless an eye-opening exposition of the father-spirit archetype in Genesis and human attachment. See Carl Jung’s _Two Essays on Analytical Psychology_ and _The Archetypes and the Collective Unconscious_ for more background.
 <br><br>
 
 __Eric Fung's pick__
