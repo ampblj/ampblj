@@ -39,12 +39,8 @@ Brandon Joa ([bio](https://resonantnotes.com/brandon.html))
 
 Frances Choi ([bio](https://resonantnotes.com/frances.html))
 
-Brandon Joa
-
 Patrick Magee ([bio](https://resonantnotes.com/patrick.html))
 
 Joe Perez-Benzo
-
-Ammar Plumber
 
 Ming Wilson
