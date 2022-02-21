@@ -27,8 +27,6 @@ Described by a cultural critic friend as “abomination” and “not music,” 
 __Soonho Kwon's pick__
 
 <iframe width="100%" height="300px" src="https://www.youtube.com/embed/WEWVSPMFKUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-*Ammar's comment: That's what your mom did last night.
 <br><br>
 
 __Patrick Magee's pick__
