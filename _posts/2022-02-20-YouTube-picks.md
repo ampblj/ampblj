@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "YouTube picks"
 author: "The Editors and Friends"
 category: "AC"

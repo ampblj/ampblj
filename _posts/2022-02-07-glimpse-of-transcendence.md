@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "A glimpse of transcendence"
 author: "Soonho Kwon"
 category: "AC"

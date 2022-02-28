@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Mandolin awaits a king"
 author: "Brandon Joa"
 subtitle: "Music and performing arts review"
