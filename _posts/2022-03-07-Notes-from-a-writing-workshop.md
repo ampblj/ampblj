@@ -36,3 +36,5 @@ I have jotted some notes about the experience.
     - I got a lot of reading done. The topic I am writing on is vignettes as a survey methodology.
     - I intend to convene a writing workshop like this on the occasional Saturday.
     - Given the apparent value of having fixed written formats, Brandon and I were able to come up with the few for *Resonant notes* including the obvious “notes” format of which this post is a prototype. Some others we came up with will trickle in. Stay tuned.
+
+<br> <em>Ammar Plumber is editor of </em> Resonant notes.
