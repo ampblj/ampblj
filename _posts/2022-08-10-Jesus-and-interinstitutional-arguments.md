@@ -6,7 +6,7 @@ category: "PT"
 ---
 
 <img src="{{site.baseurl}}/assets/images/blocked.webp" width="50%" height="50%" class="center">
-<p style="text-align: center;">From driltracts</p>
+<p style="text-align: center; font-size: 15px;">From driltracts</p>
 <br>
 
 Matthew and Luke reflect different strands of criticism of the Pharisees, one drawing on arguments that would have been shared by priests and the Qumran community and one stemming from more typically “prophetic” stances promoting justice. In Matthew, Jesus employs arguments that may have been familiar to lawyers and priests as he demonstrates the absurdity of the Pharisees’ theological leadership. Meanwhile, in Luke, Jesus shows himself to be the culmination of a dissident prophetic tradition. In both Gospels, Jesus demonstrates a synthesis of different forms of theological leadership, e.g. legal and prophetic, and employs a series of strategies for calling people to repentance while effectively rebuking those with institutional power. This approach, presenting denunciations as inter-institutional critiques, may be a shrewd way to divide Jesus’s detractors. In these narratives, the strategy helps Jesus to postpone the strong resistance he will face against his teachings, especially many of the more radical ones such as his resurrection or the destruction of the Temple.
