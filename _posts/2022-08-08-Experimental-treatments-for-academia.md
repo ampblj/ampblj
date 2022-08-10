@@ -5,8 +5,8 @@ author: "Brandon Joa"
 category: "AC"
 ---
 
-<img src="{{site.baseurl}}/assets/images/ralston.webp" width="50%" height="50%" class="center">
-<p style="text-align: center; font-size: 15px;">Credit: Adam Jones, Creative Commons</p>
+<p style="text-align: center; font-size: 15px;"><img src="{{site.baseurl}}/assets/images/ralston.webp" width="50%" height="50%" class="center">
+Credit: Adam Jones, Creative Commons</p>
 <br>
 
 I am a relatively young scholar working across disciplines, and I’m often surprised when asked to take academic consulting roles. The projects for which I consult, from designing a clinic with a health design lab to developing curriculum for a theology department, keep me parallel to academia without being reliant on its incentive structures. I also lead seminars for Philadelphia’s Collegium Institute, which aims to revitalize the modern academy using the Catholic intellectual tradition. Since my near-term work will be mostly clinical rather than academic, I can enjoy an observer’s perspective on movements that will affect the next generations of scholarship.
