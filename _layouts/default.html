@@ -40,12 +40,24 @@
 
     {% include menu.html %}
     <br>
-    <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
-    <df-messenger
-      intent="WELCOME"
-      chat-title="classyCourtBot"
-      agent-id="d3cfd044-ed3f-4e59-8369-dc49772dbdc0"
-      language-code="en"
-    ></df-messenger>
+
+    <script>
+      window.chatwootSettings = {"position":"right","type":"standard","launcherTitle":"Chat with us"};
+      (function(d,t) {
+        var BASE_URL="https://app.chatwoot.com";
+        var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+        g.src=BASE_URL+"/packs/js/sdk.js";
+        g.defer = true;
+        g.async = true;
+        s.parentNode.insertBefore(g,s);
+        g.onload=function(){
+          window.chatwootSDK.run({
+            websiteToken: 'RSwYwQHnJhQjFacoqp73FHE7',
+            baseUrl: BASE_URL
+          })
+        }
+      })(document,"script");
+    </script>
+    
   </body>
 </html>
