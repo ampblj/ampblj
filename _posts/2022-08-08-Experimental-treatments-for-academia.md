@@ -5,7 +5,7 @@ author: "Brandon Joa"
 category: "AC"
 ---
 
-<img src="{{site.baseurl}}/assets/images/ralson.webp" width="50%" height="50%" class="center">
+<img src="{{site.baseurl}}/assets/images/ralston.webp" width="50%" height="50%" class="center">
 <p style="text-align: center; font-size: 15px;">Credit: Adam Jones, Creative Commons</p>
 <br>
 
