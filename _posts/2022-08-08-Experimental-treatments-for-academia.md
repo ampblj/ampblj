@@ -14,22 +14,19 @@ Ralston’s initiative is a case study for how other reformers might organize ne
 
 Several variables are relevant for reformist educators who value tradition, including fostering online constituencies, organizing around a few excellent scholars, and small cohorts of motivated students:
 
-Tasteful online outreach
---------
+**Tasteful online outreach**
 
 > The first of these variables combines outreach efficiency with a tastefulness rarely found in online-only conservative outlets. Those who are skilled teacher-communicators, or just excellent scholars with a good production team, should produce online materials that are manifestly rigorous and insightful. If these inspire some learners to take learning to another level and continue dialogue through face-to-face interactions, this strategy could combine the best of online and offline settings. Peterson’s lectures on topics such as psychology in the Bible and personality have reached millions, while institutions such as Hillsdale College offer online lecture series, e.g. on Biblical literature, garnering hundreds of thousands of subscribers. While some of these videos have excellent production quality, many are simple recordings of classroom lectures, so the most important features are compelling arguments and an enthusiastic teacher. If only one percent of those who watched Peterson’s announcement apply to Ralston’s MA program, the school has an excellent chance of filling its twenty spots with highly capable students from among well over a thousand applicants. These students would already be highly motivated with an affinity for the school’s ethos developed from prior online engagement. 
 
 > Few traditionally-minded educators blend popular and academic material online in a way that translates to in-person enrollment, which may reflect a generational gap in awareness of what is effective to reach younger Millennials and Gen Z’ers. Thus, reformers who can use these formats are at an ideal transition point. Many academics with degrees or teaching positions from prestigious universities see the major universities as failing, but they still have institutional memory of what worked from these places in times past. Drawing from that knowledge, their existing networks, and their areas of expertise, they can use a medium such as online forums or lectures to find new students and bring the best of the university to new forms.
 
-Academic crack team
---------
+**Academic crack team**
 
 > A reforming venture needs only a few excellent educators, preferably those who have long experience or some publications. While a highly visible figure or good online presence can help build a large following, most of the in-person teaching as well as background work for public engagement, e.g. curriculum development, requires people devoted primarily to scholarship. Potential students will know the school from only a few topics that are well-presented, so scholars should gather around one or two themes that can serve the role of majors or disciplines.
 
 > These scholars should continue to research and write while developing a base of supporters and donors, as they will desire freedom from state and federal funding. Coming from industry or academic positions, they could continue their work with excellence while furthering their venture as a passionate project on the side. This project likely includes pursuing the necessary if mostly perfunctory milestones of accreditation. In the case of Ralston and perhaps future endeavors, the level of instructors—including Oxbridge professors and Stephen Wolfram of math and computer science fame—is high enough that accreditation is mostly a formality for logistical purposes and students’ professional options. Thus, new educational ventures should pursue the simplest route for degree-granting privileges or accreditation with the state or any of the nongovernmental agencies approved by the U.S. Department of Education. Once degree-granting ability has been attained and enough interest has developed around variable 1, an online presence, the time will be right for the new organization and its scholars to publicize a degree program to the greater public. Organizations such as think tanks already have a head start in gathering scholars, and these could also shift a group of their staff to developing a small degree program, especially at the graduate level.
 
-Tight student cohort
---------
+**Tight student cohort**
 
 > The most important variable to watch will be the student cohort a program like Ralston’s attracts. Like the educators, these students would be searching for things currently missing from the academy. They will select a place for its differentiated first principles, which in Ralston’s case are its commitments to free inquiry and open discussion. Hopefully, matriculants will receive professional benefits comparable to those at elite universities.
 
