@@ -4,6 +4,11 @@ title: "Experimental treatments for academia"
 author: "Brandon Joa"
 category: "AC"
 ---
+
+<img src="{{site.baseurl}}/assets/images/blocked.webp" width="50%" height="50%" class="center">
+<p style="text-align: center;">Credit: Adam Jones, Creative Commons</p>
+<br>
+
 I am a relatively young scholar working across disciplines, and I’m often surprised when asked to take academic consulting roles. The projects for which I consult, from designing a clinic with a health design lab to developing curriculum for a theology department, keep me parallel to academia without being reliant on its incentive structures. I also lead seminars for Philadelphia’s Collegium Institute, which aims to revitalize the modern academy using the Catholic intellectual tradition. Since my near-term work will be mostly clinical rather than academic, I can enjoy an observer’s perspective on movements that will affect the next generations of scholarship.
 
 Recently, I stopped by Duke as part of a project on Christian education. The train ride from Philly to Durham gave me ample time to ponder some news that had just been released before my trip: Jordan Peterson, clinical psychologist-turned-public intellectual and “internet dad” to many, had made an [announcement](https://www.youtube.com/watch?v=ZKbqhG8eWm4) to YouTube and his over five million subscribers. He would be the new chancellor of Ralston College, an educational venture dedicated to free inquiry that will welcome its first cohort for an MA in the humanities this fall. Regardless of one’s personal opinions of Peterson, [Ralston](https://www.ralston.ac/about), based in Savannah, Georgia, is an experiment in humanistic education that will be worth tracking.
